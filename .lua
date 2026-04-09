@@ -1,3 +1,4 @@
+return {
 {
         ["Do Not Use"] = "FALSE", 
         ["Id Type"] = "NonFruitItem", 
